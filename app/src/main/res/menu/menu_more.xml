@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/take_hide"
+        android:title="收藏文章"
+        android:icon="@drawable/hide"
+        android:iconTint="@color/colorwrong"/>
+    <item
+        android:id="@+id/off_hide"
+        android:icon="@drawable/hide"
+        android:iconTint="@color/colorwrong"
+        android:title="取消收藏"/>
+    <item
+        android:id="@+id/fond2"
+        android:title="喜爱"
+        android:icon="@drawable/love"
+        android:iconTint="@color/colorwrong"/>
+    <item
+        android:id="@+id/off_fond2"
+        android:icon="@drawable/love"
+        android:iconTint="@color/colorwrong"
+        android:title="取消喜爱"/>
+</menu>
