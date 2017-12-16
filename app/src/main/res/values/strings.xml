@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">知乎</string>
+    <string name="long_name">长评区</string>
+    <string name="short_name">短评区</string>
+    <string name="hot">热门消息</string>
+    <string name="store1">专栏收藏</string>
+    <string name="store2">文章收藏</string>
+    <string name="love1">喜爱专栏</string>
+    <string name="love2">喜爱文章</string>
+</resources>
